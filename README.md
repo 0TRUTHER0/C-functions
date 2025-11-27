@@ -2,5 +2,5 @@
 
 Well these are some c functon whom i've created myself
 
-length(array)   -->    output is an array length, specially usefull with strings
+length(array)   -->    output is an array length, specially usefull with strings <br>
 simple and easy alternative for strlen()
