@@ -2,5 +2,5 @@
 
 Well these are some c functon whom i've created myself
 
-<marker><strong>length(array)<strong><marker>   -->    output is an array length, specially usefull with strings <br>
+<marker><strong>length(array)<strong><marker>   -->    returns string length <br>
 simple and easy alternative for strlen()
